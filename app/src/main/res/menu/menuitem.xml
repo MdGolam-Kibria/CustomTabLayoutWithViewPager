@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/kibria"
+        android:icon="@drawable/ic_edit"
+        android:title="kibria" />
+    <item
+        android:id="@+id/helal"
+        android:icon="@drawable/ic_like"
+        android:title="helal" />
+    <item
+        android:id="@+id/rakib"
+        android:icon="@drawable/ic_search"
+        android:title="Rakib" />
+    <item
+        android:id="@+id/Rosni"
+        android:icon="@drawable/ic_settings"
+        android:title="rosni" />
+    <item
+        android:id="@+id/Yasmin"
+        android:icon="@drawable/ic_star"
+        android:title="Yasmin" />
+    <item
+        android:id="@+id/Mahmud"
+        android:icon="@drawable/ic_user"
+        android:title="Mahmud" />
+</menu>
